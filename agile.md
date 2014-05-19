@@ -35,7 +35,8 @@
  1. 把你们的每日Scrum运作拍照，上传到新浪微博说"今天我已经Scrum了!"并@讲师
 
 #### 5) 准备Essence的课程
-有iOS手机的学生们，请下载Alpha State Explorer应用，
+有iOS手机的学生们，请下载Alpha State Explorer应用
+通过这个链接下载中文的状态卡模版：
 http://www.ngpanwei.com/alpha/Plain-State-Board-zh.ases
 
 #### 6) 准备演示你们的结果
