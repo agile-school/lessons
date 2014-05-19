@@ -6,7 +6,8 @@
  1. 上传你们的TriangleTest案例
  1. 上传你们的BDD案例
  1. 上传你们的Scrum运作情况和结果
-上传的步骤在这里：https://github.com/ngpanwei/notesZh/blob/master/git/UploadEclipseToGithub.md
+
+上传的Eclipse Project到github的步骤在这里：https://github.com/ngpanwei/notesZh/blob/master/git/UploadEclipseToGithub.md
 
 #### TDD－TriangleTest作业的验收标准：
 整个TDD练习的步骤在这个链接https://github.com/ngpanwei/junit-tutorial/blob/master/part-01-quick-intro/README.md
@@ -19,7 +20,8 @@
  1. 测试能够通过
  1. xmind,*.feature,*StepDefs.java,Backlog.java,Task.java完成 
  1. 目录结构合理：实现代码在src目录，测试相关代码在test目录
- 请按照 https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/bdd-part-04-test-code/README.md 拷贝
+ 
+请按照 https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/bdd-part-04-test-code/README.md 拷贝
 
 #### Scrum的作业验收标准
  1. 在你们的"agile" github repository记录你们的任务为issues
