@@ -7,7 +7,9 @@
  1. 上传你们的BDD案例
  1. 上传你们的Scrum运作情况和结果
 
+#### 1) 建立github的"agile" repository
 上传的Eclipse Project到github的步骤在这里：https://github.com/ngpanwei/notesZh/blob/master/git/UploadEclipseToGithub.md
+这个链接也说明如何创建一个新的repository
 
 #### TDD－TriangleTest作业的验收标准：
 整个TDD练习的步骤在这个链接https://github.com/ngpanwei/junit-tutorial/blob/master/part-01-quick-intro/README.md
