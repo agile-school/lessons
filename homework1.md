@@ -24,7 +24,7 @@
  1. xmind,*.feature,*StepDefs.java,Backlog.java,Task.java完成 
  1. 目录结构合理：实现代码在src目录，测试相关代码在test目录
  
-请按照 https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/bdd-part-04-test-code/README.md 拷贝
+请参考 https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/bdd-part-04-test-code/README.md
 
 #### 4) Scrum的作业验收标准
  1. 在你们的"agile" github repository记录你们的任务为issues
