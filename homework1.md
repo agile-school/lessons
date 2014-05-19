@@ -11,13 +11,13 @@
 上传的Eclipse Project到github的步骤在这里：https://github.com/ngpanwei/notesZh/blob/master/git/UploadEclipseToGithub.md
 这个链接也说明如何创建一个新的repository
 
-#### TDD－TriangleTest作业的验收标准：
+#### 2) TDD－TriangleTest作业的验收标准：
 整个TDD练习的步骤在这个链接https://github.com/ngpanwei/junit-tutorial/blob/master/part-01-quick-intro/README.md
  1. 没有需求遗漏
  1. 没有测试用力遗漏
  1. 代码可读性好
 
-#### BDD的作业验收标准
+#### 3) BDD的作业验收标准
 整个BDD练习的步骤在这链接https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/README.md
  1. 测试能够通过
  1. xmind,*.feature,*StepDefs.java,Backlog.java,Task.java完成 
@@ -25,7 +25,7 @@
  
 请按照 https://github.com/ngpanwei/cucumber-jvm-tutorial/blob/master/bdd-part-04-test-code/README.md 拷贝
 
-#### Scrum的作业验收标准
+#### 4) Scrum的作业验收标准
  1. 在你们的"agile" github repository记录你们的任务为issues
  1. 在这个repository 跟踪这些 issue，一旦完成就close他们
  1. 每日举行你们的每日Scrum会议。记录未完成的工作点数并画你团队的故事燃尽图。
