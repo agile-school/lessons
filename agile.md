@@ -50,5 +50,5 @@ http://www.ngpanwei.com/alpha/Plain-State-Board-zh.ases
 下周末的议程是：
  1. Essence的介绍和演练
  1. 各团队的演示
- 1. 考试（选择题和填充） 
+ 1. 考试（选择题，填充，和短答题） 
 
