@@ -23,7 +23,7 @@
 | Batch        | Team           | Team Name  | 评论 | 提交时间 | 链接 |
 | :------------ |:-------------| :-----| :------| :------| :------|
 | 6	| 1	| seven team | 场景不完整 | 24/5/14| [TriangleTest.java] (https://github.com/sevenTeam/seven-Team-Code/blob/master/TriangleTest/test/example/TriangleTest.java) |
-| 6	| 2	| hurricane | 场景非常不完整，代码库混乱 | 24/5/14| [triangletext.java]（https://github.com/ybxing/summary/blob/master/Triangletext/textfinish/example/triangletext.java） |
+| 6	| 2	| hurricane | 场景非常不完整，代码库混乱 | 24/5/14 | [triangletext.java](https://github.com/ybxing/summary/blob/master/Triangletext/textfinish/example/triangletext.java) |
 | 6	| 3	| X_leader | 场景不完整 | 24/5/2014 凌晨 | [TriangleTest.java](https://github.com/screamt/first/blob/master/TriangleTest/test/example/TriangleTest.java) |
 | 6	| 4	| 永动机 | 空的测试代码 | 24/5/14 | [Triangletest.java](https://github.com/godzillano1/myrepo/blob/master/Triangle%20Test/test/example/Triangletest.java) |
 | 6	| 5	| 4314 | 场景非常不完整 | 24/5/14 | [Triangletext.java](https://github.com/zuorui/4314/blob/master/Triangle%20text/text/example/Triangletext.java) |
