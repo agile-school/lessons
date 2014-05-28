@@ -36,3 +36,22 @@
 | 7	| 5	| chinaboy | 测试完整 | 23/5/14 | [TriangleTest.java] (https://github.com/593597587/China-Boy/blob/master/TriangleTest/test/example/TriangleTest.java) |
 | 7	| 6	| 第六组 | 场景完整 | 22/5/14 | [TriangleTest.java](https://github.com/Cuizhengwei/agile/blob/master/Triangle/src/test/TriangleTest.java) |
 | 7	| 7	| 手掌团队 | 场景完整(好像拷别人的) | 27/5/14 | [TriangleTest.java] (https://github.com/NewWordeColor/song/blob/master/Triangl/src/test/TriangleTest.java) |
+
+
+#### 团队 BDD ＃1 作业总结
+| Batch        | Team           | Team Name  | 评论 | 提交时间 | 链接 |
+| :------------ |:-------------| :-----| :------| :------| :------|
+| 6	| 1	| seven team | 步骤未实现 | 24/5/14| [TaskManagementStepDefs.java] (https://github.com/sevenTeam/seven-Team-Code/blob/master/BDD/test/ngpanwei/bdd/stepdefs/TaskManagementStepDefs.java) |
+| 6	| 2	| hurricane | 作业没提交 | - | - |
+| 6	| 3	| X_leader | 场景不完整 | 24/5/2014 凌晨 | [BacklogStepDefs.java](https://github.com/screamt/first/blob/master/BDD/test/ngpanwei/bdd/stepdefs/BacklogStepDefs.java) |
+| 6	| 4	| 永动机 | 没步骤 | 24/5/14 | [Triangletest.java](https://github.com/godzillano1/myrepo/blob/master/Triangle%20Test/test/example/Triangletest.java) |
+| 6	| 5	| 4314 | 作业没提交 | 24/5/14 | - |
+| 6	| 6	| Crazy Guys | 没步骤 | 24/5/14 | [bdd] (https://github.com/cpycpy/cpycpy/tree/master/bdd/cucumber-initial/test/ngpanwei/bdd) |
+| 6	| 7	| 雕刻时光 | 步骤未实现 | 21/5/14 | [zzz.java](https://github.com/zhangboyuan/BDD/blob/master/BDD/test/ngpanwei/bdd/stepdefs/zzz.java) |
+| 7	| 1	| tomorrow | 步骤完整实现 | 25/5/14 | [TaskStepDefs.java](https://github.com/THtianhao/today/blob/master/BDD/test/ngpanwei/bdd/stepdefs/TaskStepDefs.java) |
+| 7	| 2	| Fhigiting | 步骤完整实现 | 23/5/14 | [TaskStepDefs.java](https://github.com/minjie5120132/agile/blob/master/BDD/test/ngpanwei/bdd/stepdefs/TaskStepDefs.java) |
+| 7	| 3	| Dream Plus | 步骤完整实现 | 24/5/14 | [TaskStepdefs.java](https://github.com/locHiH/aglie/blob/master/BDD/test/ngpanwei/bdd/stepdefs/TaskStepdefs.java) |
+| 7	| 4	| 砰(peng) | 步骤完整实现 | 25/5/14 | [BacklogStepDefs.java](https://github.com/jikaicreate/peng/blob/master/BDD/test/ngpanwei/bdd/stepdefs/BacklogStepDefs.java) |
+| 7	| 5	| chinaboy | 步骤完整实现 | 22/5/14 | [Stepdefs.java] (https://github.com/593597587/China-Boy/blob/master/BDD/test/ngpanwei/bdd/stepdefs/Stepdefs.java) |
+| 7	| 6	| 第六组 | 步骤完整实现 | 22/5/14 | [BacklogStepDefs.java](https://github.com/Cuizhengwei/agile/blob/master/BDD/test/ngpanwei/bdd/stepdefs/BacklogStepDefs.java) |
+| 7	| 7	| 手掌团队 | 步骤完整实现 | 27/5/14 | [TaskStepdefs.java] (https://github.com/NewWordeColor/song/blob/master/BDD/test/ngpanwei/bdd/stepdefs/TaskStepdefs.java) |
